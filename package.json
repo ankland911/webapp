@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankland911/webapp.git"
+  },
+  "keywords": [
+    "webapp"
+  ],
+  "author": "heimao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankland911/webapp/issues"
+  },
+  "homepage": "https://github.com/ankland911/webapp#readme"
+}
